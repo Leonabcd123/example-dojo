@@ -1,4 +1,4 @@
-name: builtins
+name: Builtins
 challenges:
   - id: echo-stdout
     name: Echo to stdout
