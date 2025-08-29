@@ -1,2 +1,1 @@
-This is an [example dojo](https://github.com/pwncollege/example-dojo).
-Fork this repository, and create your own dojo!
+So you think you know it all? Do you believe that you mastered the art of using Linux? You haven't seen nothing yet. This module will teach how to work with the bare-bones, no bloat on top. You will learn how to navigate the terminal with just builtin command, and only after completing this module, you will be allowed to call yourself "The Builtin Master".
