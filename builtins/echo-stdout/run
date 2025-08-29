@@ -6,7 +6,6 @@ then
   exit 1
 fi
 
-flag
 command="echo $1"
 
 echo "Your command is: $command"
