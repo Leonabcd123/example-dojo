@@ -1,0 +1,14 @@
+#!/opt/pwn.college/bash
+
+data=$(cat)
+
+echo "Your piped data is: $data"
+
+if [ "$data" != HACK-THE-PLANET ]
+then
+  echo "Your command is incorrect. Please make sure that you pipe the correct data"
+  exit 1
+fi
+
+echo "Your command is correct! Here's your flag: "
+/bin/cat /flag

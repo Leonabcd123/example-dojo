@@ -2,3 +2,5 @@ name: Builtins
 challenges:
   - id: echo-stdout
     name: Echo to stdout
+  - id: piping-echo
+    name: Redirecting Echo's output
