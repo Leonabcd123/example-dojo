@@ -1,0 +1,4 @@
+name: builtins
+challenges:
+  - id: echo-stdout
+    name: Echo to stdout
