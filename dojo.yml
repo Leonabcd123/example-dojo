@@ -3,6 +3,6 @@ name: Linux Luminarium
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
-  emoji: 🐧
+  emoji: 🐱‍💻
 modules:
 - id: "builtins"
