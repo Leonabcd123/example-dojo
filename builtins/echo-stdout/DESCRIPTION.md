@@ -1,1 +1,1 @@
-This challenge demonstrates how to automatically launch a desktop application after the desktop starts.
+Learning how to the use terminal in its purest form is an important skill. In this challenge, you will learn how to use the `echo` command. `echo` takes one argument, and "echoes" it back to terminal. To start off this module, `/challenge/run` will be exatcly like `echo`. Run `/challenge/run` with the argument "HACK-THE-PLANET" to get the flag!

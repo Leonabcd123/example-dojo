@@ -1,0 +1,21 @@
+#!/opt/pwn.college/bash
+
+if [ -z "$1" ]
+then
+  echo "Error: No input provided."
+  exit 1
+fi
+
+flag
+command="echo $1"
+
+echo "Your command is: $command"
+
+if [ "$1" != HACK-THE-PLANET ]
+then
+  echo "Your command is incorrect. Please make sure that you give the correct arguments"
+  exit 1
+fi
+
+echo "Your command is correct! Here's your flag: "
+/bin/cat /flag
