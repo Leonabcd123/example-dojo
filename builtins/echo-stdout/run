@@ -6,9 +6,9 @@ then
   exit 1
 fi
 
-command="echo $1"
+command=("echo" "$1")
 
-echo "Your command is: $command"
+echo "Your command is: "${command[@]}""
 
 if [ "$1" != HACK-THE-PLANET ]
 then
