@@ -1,5 +1,11 @@
 #!/opt/pwn.college/bash
 
+if [ -t 0 ]
+then
+  echo "Please pipe data into the program!"
+  exit 1
+fi
+
 data=$(cat)
 
 echo "Your piped data is: $data"
