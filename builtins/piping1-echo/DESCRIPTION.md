@@ -1,0 +1,1 @@
+Now that you've learned to use `echo`1, we will combine it with something that you've already learned: piping! In this challenge, you will pipe the output of `echo` (this time you will run you will have to use the actuall command, and not `/challenge/run`) into `/challenge/run`. Once you've done that, we'll give you the flag!
