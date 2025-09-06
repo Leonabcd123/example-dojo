@@ -1,6 +1,6 @@
 id: "linux-luminarium"
 name: Linux Luminarium
-image: pwncollage/challenge-legacy:latest
+image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
   emoji: 🐱
