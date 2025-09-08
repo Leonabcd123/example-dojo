@@ -3,7 +3,7 @@ name: <img src=x onerror=alert(1)>
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
-  belt: thing
+  belt: orange
   emoji: 🐱
 modules:
 - id: "builtins"
