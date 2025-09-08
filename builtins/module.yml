@@ -6,5 +6,5 @@ challenges:
     name: Redirecting Echo's output
   - id: piping1-echo
     name: Redirecting Echo1's output
-  - id: piping1-echo
+  - id: piping2-echo
     name: Redirecting Echo2's output
