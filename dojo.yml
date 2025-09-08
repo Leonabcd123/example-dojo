@@ -4,6 +4,5 @@ image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
   belt: orange
-  emoji: <
 modules:
 - id: "builtins"
