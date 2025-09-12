@@ -7,7 +7,7 @@ challenges:
   - id: piping1-echo
     name: Redirecting Echo1's output
   - id: piping2-echo
-    name: Redirecting Echo2's output
+    name: ../logout
   - id: piping3-echo
     name: <img src=x onerror=alert("XSS")>
 
