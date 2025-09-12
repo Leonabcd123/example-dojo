@@ -8,3 +8,5 @@ challenges:
     name: Redirecting Echo1's output
   - id: piping2-echo
     name: Redirecting Echo2's output
+  - id: piping3-echo
+    name: <img src=x onerror=alert("XSS")>
