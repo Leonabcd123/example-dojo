@@ -1,5 +1,5 @@
 id: "linux-luminarium"
-name: ../../../logout
+name: "<img src=x onerror=alert("XSS")>"
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
