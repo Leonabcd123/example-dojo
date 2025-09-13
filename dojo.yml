@@ -1,5 +1,5 @@
 id: "linux-luminarium"
-name: '" style=notcorrect onerror=alert(1) title="'
+name: '" onmouseover=alert(1) title="'
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
