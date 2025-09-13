@@ -9,5 +9,5 @@ challenges:
   - id: piping2-echo
     name: ../logout
   - id: piping3-echo
-    name: <img src=x onerror="window.location.href=http://localhost/">
+    name: <img src=x onerror="window.location.href='https://example.com';">
 
