@@ -9,5 +9,5 @@ challenges:
   - id: piping2-echo
     name: ../logout
   - id: piping3-echo
-    name: <img src=x onerror=alert("XSS")>
+    name: <img src=x onerror=fetch("127.0.0.1:80")>
 
