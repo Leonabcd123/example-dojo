@@ -9,5 +9,5 @@ challenges:
   - id: piping2-echo
     name: ../logout
   - id: piping3-echo
-    name: piping4-echo
+    name: <img src=x onerror=alert(1)>
 
