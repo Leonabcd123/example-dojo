@@ -1,7 +1,7 @@
 id: "linux-luminarium"
 name: '" onmouseover=alert(1) title="'
 image: pwncollege/challenge-legacy:latest
-type: welcome
+type: public
 award:
   emoji: 🐧
   
