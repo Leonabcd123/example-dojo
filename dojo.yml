@@ -1,5 +1,5 @@
 id: linux-luminarium
-name: '" onmouseover=alert(1) title="'
+name: ../../logout
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
