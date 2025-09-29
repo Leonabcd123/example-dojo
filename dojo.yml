@@ -1,4 +1,4 @@
-id: linux-luminarium
+id: ../../logout
 name: ../../logout
 image: pwncollege/challenge-legacy:latest
 type: welcome
