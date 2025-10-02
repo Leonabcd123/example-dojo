@@ -1,7 +1,7 @@
 id: linux-luminarium
 name: ../../logout
 image: pwncollege/challenge-legacy:latest
-type: course
+type: welcome
 award:
   emoji: 🐧
   
