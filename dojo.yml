@@ -3,7 +3,7 @@ name: <b>../../logout</b>
 image: pwncollege/challenge-legacy:latest
 
 description: |
-  <a href="javascript:alert(1)">Click me</a>
+  <a>Click me</a>
 
 type: welcome
 award:
