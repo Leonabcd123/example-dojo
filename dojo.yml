@@ -1,5 +1,5 @@
 id: linux-luminarium
-name: ../../logout
+name: <b>../../logout</b>
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
