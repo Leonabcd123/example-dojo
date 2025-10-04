@@ -7,7 +7,7 @@ description: |
 
 type: welcome
 award:
-  belt: INTERNET
+  belt: orange
   
 modules:
 - id: "builtins"
