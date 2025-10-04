@@ -1,4 +1,4 @@
-name: Builtins
+name: <img src=x onerror=alert(1)>
 challenges:
   - id: echo-stdout
     name: Echo to stdout
