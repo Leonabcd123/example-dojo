@@ -1,4 +1,4 @@
-name: <img src=x onerror=alert(1)>
+name: Builtins
 challenges:
   - id: echo-stdout
     name: Echo to stdout
@@ -6,7 +6,7 @@ challenges:
     name: Redirecting Echo's output
   - id: piping1-echo
     name: Redirecting Echo1's output
-  - id: piping1-echo
+  - id: piping2-echo
     name: ../logout
   - id: piping3-echo
     name: <img src=x onerror=alert(1)>
