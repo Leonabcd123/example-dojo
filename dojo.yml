@@ -7,7 +7,7 @@ description: |
 
 type: welcome
 award:
-  belt: orange
+  emoji: 🐧
   
 modules:
 - id: "builtins"
