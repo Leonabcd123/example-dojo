@@ -7,7 +7,7 @@ description: |
 
 type: welcome
 award:
-  emoji: 🐧
+  belt: INTERNET
   
 modules:
 - id: "builtins"
