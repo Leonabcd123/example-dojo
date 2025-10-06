@@ -1,7 +1,7 @@
 name: Builtins
 challenges:
   - id: echo-stdout
-    name: <b>hello</b>
+    name: Echo to stdout
   - id: piping-echo
     name: Redirecting Echo's output
   - id: piping1-echo
