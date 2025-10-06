@@ -1,4 +1,4 @@
-name: Builtins
+name: <b>hello</b>
 challenges:
   - id: echo-stdout
     name: Echo to stdout
