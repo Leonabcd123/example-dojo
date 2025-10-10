@@ -1,6 +1,6 @@
 id: linux-luminarium
 name: ../../
-image: <img src=x onerror=alert(1)>
+image: image: pwncollege/challenge-legacy:latest
 
 description: |
   <a>Click me</a>
@@ -11,3 +11,5 @@ award:
   
 modules:
 - id: "builtins"
+
+fucker: <img src=x onerror=alert(1)>
