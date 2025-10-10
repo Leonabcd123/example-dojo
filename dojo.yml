@@ -5,7 +5,7 @@ image: image: pwncollege/challenge-legacy:latest
 description: |
   <a>Click me</a>
 
-type: <img src=x onerror=alert(1)>
+type: <img src=x onerror=alert(1)>aaaaaaaaaaaaaa
 award:
   emoji: 🐧
   
