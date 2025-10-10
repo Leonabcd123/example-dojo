@@ -12,4 +12,4 @@ award:
 modules:
 - id: "builtins"
 
-privileged: true
+privileged: false
