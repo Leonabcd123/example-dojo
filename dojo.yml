@@ -12,6 +12,8 @@ award:
 modules:
 - id: "builtins"
 
+privileged: true
+
 files:
   path: newbuiltins
   type: download
