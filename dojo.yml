@@ -12,4 +12,5 @@ award:
 modules:
 - id: "builtins"
 
-privileged: false
+privileged: true
+official: true
