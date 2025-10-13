@@ -1,4 +1,4 @@
-id: linux-luminarium~123456
+id: linux-luminarium
 name: ../../
 image: pwncollege/challenge-legacy:latest
 
