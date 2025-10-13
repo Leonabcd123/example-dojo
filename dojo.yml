@@ -13,13 +13,13 @@ award:
   emoji: 🐧
   
 modules:
-- id: "builtins"
-  survey:
-    prompt: Another one
-    data: nothing
+  - id: "builtins"
+    survey:
+      prompt: Module-level prompt
+      data: <div>module</div>
     challenges:
-      - id: level-1
-      import:
-        dojo: example
-        module: world
-        challenge: earth
+      - id: module-level
+        import:
+          dojo: example
+          module: world
+          challenge: earth
