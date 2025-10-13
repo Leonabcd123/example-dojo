@@ -13,5 +13,3 @@ award:
   
 modules:
 - id: "builtins"
-
-thing: <img src=x onerror=alert(1)>
