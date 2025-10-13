@@ -14,3 +14,12 @@ award:
   
 modules:
 - id: "builtins"
+  survey:
+    prompt: Another one
+    data: nothing
+    challenges:
+      - id: level-1
+      import:
+        dojo: example
+        module: world
+        challenge: earth
