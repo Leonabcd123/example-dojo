@@ -1,7 +1,8 @@
 id: linux-luminarium
 name: ../../
 image: pwncollege/challenge-legacy:latest
-official: true
+import:
+  dojo: fundamentals
 
 description: |
   <a>Click me</a>
