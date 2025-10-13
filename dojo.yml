@@ -1,10 +1,9 @@
 id: linux-luminarium
 name: ../../
 image: pwncollege/challenge-legacy:latest
-import:
-  dojo: fundamentals
-    module: data-dealings
-      challenge: hex
+survey:
+  prompt: HI
+  data: sup
 
 description: |
   <a>Click me</a>
