@@ -1,6 +1,7 @@
 id: linux-luminarium
 name: ../../
 image: pwncollege/challenge-legacy:latest
+official: true
 
 description: |
   <a>Click me</a>
