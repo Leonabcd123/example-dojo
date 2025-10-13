@@ -3,6 +3,7 @@ name: ../../
 image: pwncollege/challenge-legacy:latest
 import:
   dojo: fundamentals
+  module: data-dealings
 
 description: |
   <a>Click me</a>
