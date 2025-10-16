@@ -14,6 +14,5 @@ modules:
 
 survey:
   prompt: "a"
-  data: "b"
 
 survey-sources: sources
