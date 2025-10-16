@@ -10,3 +10,7 @@ challenges:
     name: ../logout
   - id: piping3-echo
     name: <img src=x onerror=alert(1)>
+
+survey:
+  prompt: "a"
+  data: "b"
