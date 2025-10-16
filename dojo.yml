@@ -11,3 +11,7 @@ award:
   
 modules:
   - id: "builtins"
+
+survey:
+  prompt: "a"
+  data: "b"
