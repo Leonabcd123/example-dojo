@@ -12,7 +12,4 @@ award:
 modules:
   - id: "builtins"
 
-survey:
-  prompt: "a"
-
 survey-sources: sources
