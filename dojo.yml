@@ -26,8 +26,8 @@ modules:
         name: <img src=x onerror=alert(1)>
       
     resources:
-    - name: "Access Control: Introduction"
+    - name: "<img src=x onerror=alert(1)>"
       type: lecture
-      video: mdWa1SHkxmM
-      playlist: PL-ymxv0nOtqotjW-uK_YSj9pm5tTKf87J
-      slides: asdf
+      video: <img src=x onerror=alert(1)>
+      playlist: <img src=x onerror=alert(1)>
+      slides: <img src=x onerror=alert(1)>
