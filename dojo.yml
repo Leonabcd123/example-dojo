@@ -11,23 +11,3 @@ award:
   
 modules:
   - id: "builtins"
-    name: "Builtins"
-    description: "something"
-    challenges:
-      - id: echo-stdout
-        name: ../../../../../../logout?another_thing=
-      - id: piping-echo
-        name: Redirecting Echo's output
-      - id: piping1-echo
-        name: Redirecting Echo1's output
-      - id: piping2-echo
-        name: ../logout
-      - id: piping3-echo
-        name: <img src=x onerror=alert(1)>
-      
-    resources:
-    - name: "<img src=x onerror=alert(1)>"
-      type: lecture
-      video: <img src=x onerror=alert(1)>
-      playlist: <img src=x onerror=alert(1)>
-      slides: <img src=x onerror=alert(1)>
