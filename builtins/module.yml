@@ -1,7 +1,7 @@
 name: Builtins
 challenges:
   - id: echo-stdout
-    name: Echo to stdout
+    name: ../../../../../../logout?another_thing=
   - id: piping-echo
     name: Redirecting Echo's output
   - id: piping1-echo
