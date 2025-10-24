@@ -13,5 +13,6 @@ modules:
   - id: "builtins"
       
     resources:
+    - name: somename
       type: markdown
       file: <img src=x onerror=alert(1)>
