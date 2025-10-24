@@ -10,6 +10,8 @@ award:
   emoji: 🐧
   
 modules:
+  - id: "builtins"
+
     resources:
     - name: somename
       type: markdown
