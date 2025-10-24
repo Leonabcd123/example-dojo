@@ -15,5 +15,4 @@ modules:
     resources:
     - name: "Access Control: Introduction"
       type: markdown
-      content: "<img src=x onerror=alert(1)> and another `thing`"
       file: <img src=x onerror=alert(1)>
