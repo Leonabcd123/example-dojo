@@ -15,4 +15,4 @@ modules:
    resources:
    - name: "Access Control: Introduction"
      type: lecture
-     video: ../../?a=
+     video: "../../?a=
