@@ -12,7 +12,7 @@ award:
 modules:
  - id: "builtins"
 
-resources:
+ resources:
  - name: "thing"
    type: lecture
    slides: ../../
