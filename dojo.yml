@@ -11,3 +11,8 @@ award:
   
 modules:
   - id: "builtins"
+
+  resources:
+  - name: "thing"
+    type: markdown
+    file: ../../
