@@ -11,8 +11,3 @@ award:
   
 modules:
  - id: "builtins"
-
- resources:
- - name: "thing"
-   type: lecture
-   file: ../../
