@@ -14,5 +14,5 @@ modules:
 
   resources:
   - name: "thing"
-    type: markdown
+    type: lecture
     file: ../../
