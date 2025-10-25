@@ -10,9 +10,9 @@ award:
   emoji: 🐧
   
 modules:
-  - id: "builtins"
+ - id: "builtins"
 
-  resources:
-  - name: "thing"
-    type: lecture
-    file: ../../
+ resources:
+ - name: "thing"
+   type: lecture
+   file: ../../
