@@ -11,8 +11,3 @@ award:
   
 modules:
  - id: "builtins"
-
-   resources:
-   - name: "Access Control: Introduction"
-     type: lecture
-     video: '"<img src=x onerror=alert(1)>"'
