@@ -11,3 +11,8 @@ award:
   
 modules:
  - id: "builtins"
+
+survey-sources: surveys_dir
+
+survey:
+  - src: <img src=x onerror=alert(1)>
