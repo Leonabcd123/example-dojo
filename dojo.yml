@@ -15,6 +15,6 @@ modules:
 survey-sources: "surveys_dir"
 
 survey:
-  src: "asdfasdfasdfasdf"
+  src: "/<img src=x onerror=alert(1)>"
   data: "asdf"
   prompt: "asdf"
