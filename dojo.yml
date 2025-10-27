@@ -15,4 +15,4 @@ modules:
 survey-sources: surveys_dir
 
 survey:
-  - src: <img src=x onerror=alert(1)>
+  src: <img src=x onerror=alert(1)>
