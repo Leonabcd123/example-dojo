@@ -15,8 +15,8 @@ modules:
    resources:
      type: challenge
      
-     - import:
-         dojo: software-exploitation
-         module: binary-exploitation
-         challenge: level-2
+     import:
+      dojo: software-exploitation
+      module: binary-exploitation
+      challenge: level-2
   
