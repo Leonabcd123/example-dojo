@@ -12,12 +12,12 @@ award:
 modules:
  - id: "builtins"
 
-resources:
-  type: challenge
-  id: someone
-  name: anotherone
-  import:
-    dojo: software-exploitation
-    module: binary-exploitation
-    challenge: level-2
+   resources:
+     type: challenge
+     id: someone
+     name: anotherone
+     import:
+       dojo: software-exploitation
+       module: binary-exploitation
+       challenge: level-2
   
