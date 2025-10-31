@@ -14,8 +14,8 @@ modules:
 
    resources:
    - type: challenge
-   import:
-     dojo: software-exploitation
-     module: kernel-exploitation
-     challenge: level2
+     import:
+       dojo: software-exploitation
+       module: kernel-exploitation
+       challenge: level2
   
