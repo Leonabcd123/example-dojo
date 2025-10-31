@@ -12,7 +12,7 @@ award:
 modules:
  - id: "builtins"
 
-   challenges:
+   resources:
 
      - import:
          dojo: software-exploitation
