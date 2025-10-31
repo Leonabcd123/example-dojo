@@ -14,8 +14,6 @@ modules:
 
    resources:
      type: challenge
-     id: someone
-     name: anotherone
      
      - import:
          dojo: software-exploitation
