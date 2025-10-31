@@ -12,11 +12,10 @@ award:
 modules:
  - id: "builtins"
 
-   resources:
-     type: challenge
-     
-     import:
-      dojo: software-exploitation
-      module: binary-exploitation
-      challenge: level-2
+   challenges:
+
+     - import:
+         dojo: software-exploitation
+         module: binary-exploitation
+         challenge: level-2
   
