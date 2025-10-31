@@ -13,10 +13,9 @@ modules:
  - id: "builtins"
 
    resources:
-
-     import:
-      type: challenge
-      dojo: software-exploitation
-      module: kernel-exploitation
-      challenge: level2
+   type: challenge
+   - import:
+       dojo: software-exploitation
+       module: kernel-exploitation
+       challenge: level2
   
