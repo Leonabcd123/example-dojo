@@ -16,6 +16,6 @@ modules:
 
      - import:
          dojo: software-exploitation
-         module: binary-exploitation
+         module: kernel-exploitation
          challenge: level2
   
