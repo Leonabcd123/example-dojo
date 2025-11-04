@@ -3,11 +3,11 @@
 flag=$(cat /flag)
 
 for (( i=0; i<${#flag}; i++ )); do
-  for (( j=0; i<$(($RANDOM % 2)); j++ )); do
+  for (( j=0; j<$(($RANDOM % 50)); j++ )); do
     echo -n "garbage data" >&2
   done
   echo "${flag:$i:1}"
-  for (( j=0; i<$(($RANDOM % 2)); j++ )); do
+  for (( j=0; j<$(($RANDOM % 50)); j++ )); do
     echo -n "garbage data" >&2
   done
 done
