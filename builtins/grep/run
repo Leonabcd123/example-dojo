@@ -3,5 +3,5 @@
 flag=$(cat /flag)
 
 for (( i=0; i<${#flag}; i++ )); do
-  echo "${flag:$i:1}a" 
+  echo -n "${flag:$i:1}~" 
 done
