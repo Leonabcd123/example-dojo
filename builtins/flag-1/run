@@ -7,7 +7,7 @@ for (( i=0; i<${#flag}; i++ )); do
     echo -n "garbage data" >&2
   done
   echo "${flag:$i:1}"
-  for (( i=0; i<($($RANDOM % 50)); i++ )); do
+  for (( i=0; i<$(($RANDOM % 50)); i++ )); do
     echo -n "garbage data" >&2
   done
 done
