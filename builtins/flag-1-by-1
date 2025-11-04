@@ -1,0 +1,8 @@
+#!/opt/pwn.college/bash
+
+flag=$(cat /flag)
+
+for (( i=0; i<${#flag}; i++ )); do
+  echo "${flag:$i:1}"
+  echo "garbage data" >&2
+done
