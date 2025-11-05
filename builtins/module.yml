@@ -16,6 +16,8 @@ challenges:
     name: grep
   - id: cp
     name: cp
+  - id: sed
+    name: sed
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
