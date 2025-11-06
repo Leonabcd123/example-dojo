@@ -18,6 +18,8 @@ challenges:
     name: cp
   - id: sed
     name: sed
+  - id: ssh
+    name: ssh
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
