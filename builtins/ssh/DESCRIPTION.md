@@ -1,5 +1,5 @@
 Finally, we will learn how to connect to the dojo via SSH! Start the challenge and use the workspace selector
-on the bar below the Desktop to select "SSH". From there, follow the instructions for linking your SSH key (highlighted in /settings#ssh-key).
+on the bar below the Desktop to select "SSH". From there, follow the instructions for linking your SSH key (highlighted in [/settings#ssh-key](/settings#ssh-key)).
 After you linked your SSH key, just run:
 
 `ssh -i path/to/private/key hacker@dojo.pwn.college`
