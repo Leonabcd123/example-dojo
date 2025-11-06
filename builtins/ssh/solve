@@ -27,7 +27,7 @@ cat <<END | while read LINE; do echo "$LINE"; sleep 0.1; done
 ⠀⠀⠀⣀⠤⠃⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀THE  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⢣⠀⠀
 ⠰⣿⣉⣀⠤⠤⠤⠽⠀⠀⠀⠀⠀⠀⠀⠀DOJO⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣏⢰⣀⣣⡀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠛⠛⠋
-You should be running this challenge through the SSH...
+You should be running this challenge through SSH...
 Let's check!
 END
 
@@ -67,5 +67,5 @@ then
 	echo -n "Your flag: "
 	cat /flag
 else
-	echo "NOPE! Please run this challenge from the SSH Workspace (rather than VSCode, Desktop, or Terminal)!"
+	echo "NOPE! Please run this challenge via SSH (rather than VSCode, Desktop, or Terminal)!"
 fi
