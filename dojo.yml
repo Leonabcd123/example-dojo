@@ -7,8 +7,8 @@ description: |
 
 type: welcome
 award:
-  emoji: f
-  
+  emoji: 🐧
+
 modules:
  - id: "builtins"
 
