@@ -1,14 +1,6 @@
 #!/opt/pwn.college/bash
 
-LEVEL_FILE="/challenge/.level"
 DIRECTORY_TO_GO_TO="/challenge/.state"
-
-if [ -f "$LEVEL_FILE" ]; then
-    LEVEL=$(cat "$LEVEL_FILE")
-else
-    LEVEL=1
-    echo "Starting level $LEVEL."
-fi
 
 FINAL_DIRECTORY="/"
 DIRECTORIES="something"
@@ -50,21 +42,5 @@ fi
 
 echo -e "${COLOR_GREEN}Correct!!!${COLORLESS}"
 echo "$0 is an absolute path, invoked from the right directory!"
-((LEVEL++))
-
-echo "$LEVEL" > "$LEVEL_FILE"
-
-if [ "$LEVEL" -eq 6 ]
-then
-        rm $LEVEL_FILE
-        echo "Here is your flag:"
-        /bin/cat /flag
-        exit 0
-fi
-
-echo "Moving on to level $LEVEL"
-generate_random_directory
-STRING_LENGTH=${#FINAL_DIRECTORY}
-NEEDED=${FINAL_DIRECTORY:1:STRING_LENGTH - 2}
-echo "$NEEDED" > $DIRECTORY_TO_GO_TO
-echo "Please use the \`cd\` utility to change directory to $NEEDED"
+echo "Here is your flag:"
+/bin/cat /flag
