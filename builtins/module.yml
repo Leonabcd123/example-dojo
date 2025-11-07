@@ -20,6 +20,8 @@ challenges:
     name: sed
   - id: ssh
     name: ssh
+  - id: absolute-cwd
+    name: absolute-cwd
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
