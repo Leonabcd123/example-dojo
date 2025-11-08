@@ -2,13 +2,13 @@
 
 PATH_TO_FILE="$1"
 
-if [[ ! -f $PATH_TO_FILE ]]; then
+if [[ ! -f "$PATH_TO_FILE" ]]; then
   echo "Please enter a valid path!"
   exit 1
 fi
 
-if /bin/su -c 'echo "something" > "$PATH_TO_FILE" 2> /dev/null' - zardus; then
-  echo "I managed to modify your file..."
+if /bin/su -c "rm $PATH_TO_FILE 2> /dev/null" - zardus; then
+  echo "I managed to remove your file. Please try again."
 else
   echo "Success! Here's your flag: "
   /bin/cat /flag
