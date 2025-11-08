@@ -7,7 +7,7 @@ if [[ ! -f $PATH_TO_FILE ]]; then
   exit 1
 fi
 
-if echo "something" > "$PATH_TO_FILE" 2> /dev/null; then
+if /bin/su -c 'echo "something" > "$PATH_TO_FILE" 2> /dev/null' - zardus; then
   echo "I managed to modify your file..."
 else
   echo "Success! Here's your flag: "
