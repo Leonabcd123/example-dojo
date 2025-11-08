@@ -1,0 +1,16 @@
+#!/opt/pwn.college/bash
+
+PATH_TO_FILE="$1"
+
+if [[ ! -f $PATH_TO_FILE ]]; then
+  echo "Please enter a valid path!"
+  exit 1
+fi
+
+if cat "$PATH_TO_FILE" 2> /dev/null; then
+  echo "I managed to read your file..."
+  /bin/cat "$PATH_TO_FILE"
+else
+  echo "Success! Here's your flag: "
+  /bin/cat /flag
+fi
