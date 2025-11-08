@@ -22,6 +22,8 @@ challenges:
     name: ssh
   - id: absolute-cwd
     name: absolute-cwd
+  - id: sticky-bit
+    name: sticky bit
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
