@@ -7,7 +7,7 @@ if [[ ! -f $PATH_TO_FILE ]]; then
   exit 1
 fi
 
-if cat "$PATH_TO_FILE" 2> /dev/null; then
+if cat "$PATH_TO_FILE" > /dev/null 2>&1; then
   echo "I managed to read your file..."
   /bin/cat "$PATH_TO_FILE"
 else
