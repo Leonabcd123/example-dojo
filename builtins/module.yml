@@ -24,6 +24,8 @@ challenges:
     name: absolute-cwd
   - id: sticky-bit
     name: sticky bit
+  - id: desktop
+    name: desktop
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
