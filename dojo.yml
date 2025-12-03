@@ -11,7 +11,7 @@ award:
 
 modules:
  - id: "builtins"
- - id: "a"
+ - id: "commands"
 
    resources:
    - type: challenge
