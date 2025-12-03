@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cat /flag
+
 PATH="/run/dojo/bin:$PATH"
 USER="hacker"
 
