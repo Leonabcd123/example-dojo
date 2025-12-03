@@ -1,0 +1,5 @@
+name: Commands
+
+challenges:
+  - id: cp
+    name: cp
