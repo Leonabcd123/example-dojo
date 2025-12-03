@@ -11,6 +11,7 @@ award:
 
 modules:
  - id: "builtins"
+ - id: "a"
 
    resources:
    - type: challenge
