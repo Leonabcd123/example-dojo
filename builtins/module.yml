@@ -18,14 +18,10 @@ challenges:
     name: cp
   - id: sed
     name: sed
-  - id: ssh
-    name: ssh
   - id: absolute-cwd
     name: absolute-cwd
   - id: sticky-bit
     name: sticky bit
-  - id: desktop
-    name: desktop
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
