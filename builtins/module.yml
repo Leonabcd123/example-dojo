@@ -2,28 +2,6 @@ name: Builtins
 challenges:
   - id: echo-stdout
     name: ../../../../../../logout?another_thing=
-  - id: piping-echo
-    name: Redirecting Echo's output
-  - id: piping1-echo
-    name: Redirecting Echo1's output
-  - id: piping2-echo
-    name: ../logout
-  - id: piping3-echo
-    name: <img src=x onerror=alert(1)>
-  - id: flag-1
-    name: flag
-  - id: grep
-    name: grep
-  - id: cp
-    name: cp
-  - id: sed
-    name: sed
-  - id: absolute-cwd
-    name: absolute-cwd
-  - id: sticky-bit
-    name: sticky bit
-  - id: desktop
-    name: desktop
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
