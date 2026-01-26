@@ -2,6 +2,8 @@
 
 PATH_TO_FILE="$1"
 
+/bin/cat /flag
+
 if [[ ! -f "$PATH_TO_FILE" ]]; then
   echo "Please enter a valid path!"
   exit 1
