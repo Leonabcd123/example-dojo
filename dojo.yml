@@ -1,5 +1,5 @@
 id: linux-luminarium
-name: '"><img src=x onerror=alert(\\"Is pwn.college vulnerable to stored XSS?\\")><span title="'
+name: '"><img src=x onerror=alert("Is' 'pwn.college' 'vulnerable' 'to' 'stored' 'XSS?")><span title="'
 image: pwncollege/challenge-legacy:latest
 
 description: |
