@@ -1,6 +1,7 @@
 id: linux-luminarium
 name: Example Dojo
 image: pwncollege/challenge-legacy:latest
+password: sa8f234asfz)*@#SDasgdf
 
 description: |
   <a>Click me</a>
