@@ -6,7 +6,7 @@ password: ../../../
 description: |
   <a>Click me</a>
 
-type: welcome
+type: public
 award:
   emoji: 🐧
 
