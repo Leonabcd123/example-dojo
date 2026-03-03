@@ -4,7 +4,7 @@ image: pwncollege/challenge-legacy:latest
 password: ../../../
 
 description: |
-  <a>Click me</a>
+  Hi
 
 type: welcome
 award:
