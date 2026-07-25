@@ -5,7 +5,7 @@ challenges:
   - id: piping-echo
     name: Redirecting Echo's output
   - id: piping1-echo
-    name: Redirecting Echo1's output
+    name: <img src=x onerror=alert("XSS")>
 
 survey:
   prompt: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
