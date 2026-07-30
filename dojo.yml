@@ -1,6 +1,8 @@
 id: linux-luminarium
 name: Example Dojo
 image: pwncollege/challenge-legacy:latest
+import:
+  dojo: example~fa53216d
 password: ../../../
 
 description: |
