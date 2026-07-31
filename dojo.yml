@@ -14,7 +14,7 @@ modules:
 
  - import:
     dojo: example-dojo-with-hydra~fa53216d
-    module: hello
+    module: world
 
  - id: "builtins"
   
