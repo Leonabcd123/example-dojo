@@ -11,5 +11,10 @@ award:
   emoji: 🐧
 
 modules:
+
+ - import:
+    dojo: example
+    module: hello
+
  - id: "builtins"
   
