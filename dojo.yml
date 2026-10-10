@@ -3,9 +3,6 @@ name: Example Dojo
 image: pwncollege/challenge-legacy:latest
 password: ../../../
 
-description: |
-  Hi
-
 type: welcome
 award:
   emoji: 🐧
