@@ -1,7 +1,7 @@
 id: linux-luminarium
 name: Example Dojo
 image: pwncollege/challenge-legacy:latest
-password: asdf
+password: asdfasdf123!
 
 type: welcome
 award:
